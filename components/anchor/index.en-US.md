@@ -12,7 +12,7 @@ Hyperlinks to scroll on one page.
 
 For displaying anchor hyperlinks on page and jumping between them.
 
-## API
+## APIAPIAPIAPIAPIAPIAPI
 
 ### Anchor Props
 
